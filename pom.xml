@@ -604,5 +604,5 @@
             <name>ip-172-31-34-8.ap-south-1.compute.internal-releases</name>
             <url>http://43.204.87.245:8082/artifactory/libs-release-local</url>
         </repository>
-</distributionManagement>
+    </distributionManagement>
 </project>
